@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just adds a copyright footer/date!  That's all folks!
 
 ## Development
 
